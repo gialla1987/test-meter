@@ -1,0 +1,23 @@
+## Primi tentativo workflow template-based per procedure Remote Support
+# label: %step%
+# stylename: shapeType
+# styles: {"raw": "whiteSpace=wrap;shape=parallelogram;fillColor=#f5f5f5;strokeColor=#666666;perimeter=parallelogramPerimeter", \
+#          "well": "whiteSpace=wrap;shape=cylinder;fillColor=#f5f5f5;strokeColor=#666666;", \
+#          "foundry": "whiteSpace=wrap;shape=trapezoid;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeter=trapezoidPerimeter;", \
+#          "titleText":"whiteSpace=wrap;shape=hexagon;fillColor=#d5e8d4;strokeColor=#82b366;perimeter=hexagonPerimeter;fontSize=14;", \
+#          "action":"whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450", \
+#          "instruction":"whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656", \
+#          "assembly":"whiteSpace=wrap;shape=triangle;fillColor=#ffe6cc;strokeColor=#d79b00;perimeter=trianglePerimeter;", \
+#          "option":"whiteSpace=wrap;shape=ellipse;fillColor=#ffffff;strokeColor=#000000;perimeter=ellipsePerimeter;"}
+# namespace: csvimport-
+# connect: {"from":"refs", "to":"id", "invert":true, "style":"curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;"}
+# width: @width
+# height: auto
+# padding: 15
+# ignore: id,shape,fill,stroke,refs
+# nodespacing: 40
+# levelspacing: 60
+# edgespacing: 40
+# layout: verticalflow
+
+## INCOLLARE QUI SOTTO IL CSV CON GLI STEP COPIANDOLO COME LO FA VEDERE NOTEPAD++ E NON RIAPRIRE CON EXEL & CO

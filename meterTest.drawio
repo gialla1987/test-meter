@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5" pages="3">
+  <diagram id="7AZIaKFDA84dNrpr3-fF" name="Page-1">
+    <mxGraphModel dx="1141" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%step%" step="METERS DETECTION" shapeType="titleText" width="200" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-2">
+          <mxCell style="whiteSpace=wrap;shape=hexagon;fillColor=#d5e8d4;strokeColor=#82b366;perimeter=hexagonPerimeter;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="110" y="20" width="200" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Execute MTR0 - Meter test and choose one of the 3 options below" shapeType="instruction" width="140" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-3">
+          <mxCell style="whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+            <mxGeometry x="140" y="125" width="140" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Success" shapeType="option" width="100" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-4">
+          <mxCell style="whiteSpace=wrap;shape=ellipse;fillColor=#ffffff;strokeColor=#000000;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="20" y="230" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Misconfigured" shapeType="option" width="100" link="data:page/id,SWconfig" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-5">
+          <mxCell style="whiteSpace=wrap;shape=ellipse;fillColor=#ffffff;strokeColor=#000000;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="160" y="230" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Not found" shapeType="option" width="100" link="data:page/id,Onsitecheck" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-6">
+          <mxCell style="whiteSpace=wrap;shape=ellipse;fillColor=#ffffff;strokeColor=#000000;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="300" y="230" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="KPI check" shapeType="action" width="100" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-7">
+          <mxCell style="whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="1">
+            <mxGeometry x="20" y="335" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Meter config" shapeType="action" width="100" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-8">
+          <mxCell style="whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="1">
+            <mxGeometry x="160" y="335" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%step%" step="Open Service Call" shapeType="action" width="100" link="" placeholders="1" id="Hn5I5QAlXXFDM_NtoOHu-9">
+          <mxCell style="whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="1">
+            <mxGeometry x="300" y="335" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-10" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-2" target="Hn5I5QAlXXFDM_NtoOHu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="77" />
+              <mxPoint x="210" y="113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-11" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-3" target="Hn5I5QAlXXFDM_NtoOHu-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166.66666666666666" y="182" />
+              <mxPoint x="70" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-12" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-3" target="Hn5I5QAlXXFDM_NtoOHu-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="184" />
+              <mxPoint x="210" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-13" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-3" target="Hn5I5QAlXXFDM_NtoOHu-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253.33333333333334" y="182" />
+              <mxPoint x="350" y="218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-14" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-4" target="Hn5I5QAlXXFDM_NtoOHu-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="287" />
+              <mxPoint x="70" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-15" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-5" target="Hn5I5QAlXXFDM_NtoOHu-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="287" />
+              <mxPoint x="210" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hn5I5QAlXXFDM_NtoOHu-16" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Hn5I5QAlXXFDM_NtoOHu-6" target="Hn5I5QAlXXFDM_NtoOHu-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="287" />
+              <mxPoint x="350" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SWconfig" name="SWconfig">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Onsitecheck" name="Onsitecheck">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
