@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="2">
+  <diagram id="OQN0JOWMfJ3RcXrOHpeJ" name="Page-1">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="POWER UP" step="**&lt;BR&gt;Please run&lt;BR&gt;&lt;b&gt;MTR0 - Meter&lt;BR&gt;test&lt;/b&gt;&lt;BR&gt;**" shapeType="instruction" width="140" link="" placeholders="1" id="6UuS3IcfEYZIs_zQ8DgR-1">
+          <mxCell style="whiteSpace=wrap;shape=rhombus;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;perimeter=rhombusPerimeter;html=1;" vertex="1" parent="1">
+            <mxGeometry x="80" y="70" width="140" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="START OK" step="Misconfigured" shapeType="option" width="100" placeholders="1" id="6UuS3IcfEYZIs_zQ8DgR-2">
+          <mxCell style="whiteSpace=wrap;shape=ellipse;fillColor=#ffffff;strokeColor=#000000;perimeter=ellipsePerimeter;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="235" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="GO TO CONFIG" step="Meter config" shapeType="action" width="100" link="" placeholders="1" id="6UuS3IcfEYZIs_zQ8DgR-3">
+          <mxCell style="whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="340" width="100" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6UuS3IcfEYZIs_zQ8DgR-4" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="6UuS3IcfEYZIs_zQ8DgR-1" target="6UuS3IcfEYZIs_zQ8DgR-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="189" />
+              <mxPoint x="150" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UuS3IcfEYZIs_zQ8DgR-5" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="6UuS3IcfEYZIs_zQ8DgR-2" target="6UuS3IcfEYZIs_zQ8DgR-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="292" />
+              <mxPoint x="150" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SWconfig" name="SWconfig">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="LZspN0VvwbiK3hJPX0RE-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;XXX Configuration&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="250" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
