@@ -35,61 +35,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="%step%" undefined="## INCOLLARE QUI SOTTO IL CSV CON GLI STEP COPIANDOLO COME LO FA VEDERE NOTEPAD++ E NON RIAPRIRE CON EXEL &amp; CO" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-1">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="## INCOLLARE QUI SOTTO IL CSV CON GLI STEP COPIANDOLO COME LO FA VEDERE NOTEPAD++ E NON RIAPRIRE CON EXEL &amp; CO" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-2">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="link" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-3">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-4">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-5">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-6">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="data:page/id,SWconfig" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-7">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="data:page/id,Onsitecheck" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-8">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-9">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-10">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="%step%" undefined="" placeholders="1" id="_Jy4aLALRddg0-cL-mC2-11">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="NaN" y="410" width="NaN" height="45" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
