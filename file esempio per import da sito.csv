@@ -20,7 +20,7 @@
 # edgespacing: 40
 # layout: verticalflow
 id,step,fill,stroke,shapeType,width,refs,link,
-1,"**<BR>Execute CC1 - Ping Charger to ensure the fixture is online<BR>**",#dae8fc,#6c8ebf,titleText,200,,
+1,"**<BR>Execute <b>"CC1 - Ping Charger"</b><BR> to ensure the fixture is online<BR>**",#dae8fc,#6c8ebf,titleText,250,,
 2,Execute "CC1 - Ping Charger" to ensure the fixture is online,#dae8fc,#6c8ebf,instruction,140,1,
 3,Success,#d5e8d4,#82b366,option,100,2,
 4,Misconfigured,#fff2cc,#e69138,option,100,2,"data:page/id,SWconfig"
@@ -28,4 +28,3 @@ id,step,fill,stroke,shapeType,width,refs,link,
 6,KPI check,#dae8fc,#6c8ebf,action,100,3,
 7,Meter config,#dae8fc,#6c8ebf,action,100,4,
 8,Open Service Call,#dae8fc,#6c8ebf,action,100,5,
-
