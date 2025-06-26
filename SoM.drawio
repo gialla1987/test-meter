@@ -4,18 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IejAQgSXKc2Y49kBOPVx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-10" target="IejAQgSXKc2Y49kBOPVx-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-10" value="New&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SoM Configuration&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-11" target="IejAQgSXKc2Y49kBOPVx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IejAQgSXKc2Y49kBOPVx-11" value="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;CC1: Ping charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to ensure the fixture is online&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="320" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;CC1: Ping charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to ensure the fixture is online&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621406155/Hypercharger+Offline+in+Hyperlog" id="IejAQgSXKc2Y49kBOPVx-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="120" width="320" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-14" target="IejAQgSXKc2Y49kBOPVx-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,15 +24,19 @@
         <mxCell id="IejAQgSXKc2Y49kBOPVx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-17" target="IejAQgSXKc2Y49kBOPVx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IejAQgSXKc2Y49kBOPVx-17" value="Update hymaint to the most recent version using&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;HYM3: Install Hymaint&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="300" width="320" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Update hymaint to the most recent version using&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;HYM3: Install Hymaint&lt;/span&gt;&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/1240236177/hymaint+update" id="IejAQgSXKc2Y49kBOPVx-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="300" width="320" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-20" target="IejAQgSXKc2Y49kBOPVx-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IejAQgSXKc2Y49kBOPVx-20" value="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM2: Upload Config To Charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and identify the most recent &lt;b&gt;valid &lt;/b&gt;configuration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="320" height="70" as="geometry" />
-        </mxCell>
+        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM2: Upload Config To Charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and identify the most recent &lt;b&gt;valid &lt;/b&gt;configuration, then upload it&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621413840/hypercharger.conf" id="IejAQgSXKc2Y49kBOPVx-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240" y="390" width="320" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-24" target="IejAQgSXKc2Y49kBOPVx-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-10" value="&lt;div&gt;Check the SW version from the latest sessions and install it.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="980" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lWXWfnWMMrPsDJzRvSUA-18" value="Click on a step to be redirected to the relevant help page" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
