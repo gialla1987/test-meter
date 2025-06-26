@@ -10,7 +10,7 @@
         <mxCell id="IejAQgSXKc2Y49kBOPVx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-11" target="IejAQgSXKc2Y49kBOPVx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;CC1: Ping charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to ensure the fixture is online&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621406155/Hypercharger+Offline+in+Hyperlog" id="IejAQgSXKc2Y49kBOPVx-11">
+        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;CC1: Ping charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to ensure the fixture is online&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621406155/Hypercharger+Offline+in+Hyperlog" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="240" y="120" width="320" height="60" as="geometry" />
           </mxCell>
@@ -24,7 +24,7 @@
         <mxCell id="IejAQgSXKc2Y49kBOPVx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-17" target="IejAQgSXKc2Y49kBOPVx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Update hymaint to the most recent version using&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;HYM3: Install Hymaint&lt;/span&gt;&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/1240236177/hymaint+update" id="IejAQgSXKc2Y49kBOPVx-17">
+        <UserObject label="Update hymaint to the most recent version using&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;HYM3: Install Hymaint&lt;/span&gt;&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/1240236177/hymaint+update" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="240" y="300" width="320" height="60" as="geometry" />
           </mxCell>
@@ -32,7 +32,7 @@
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IejAQgSXKc2Y49kBOPVx-20" target="IejAQgSXKc2Y49kBOPVx-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM2: Upload Config To Charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and identify the most recent &lt;b&gt;valid &lt;/b&gt;configuration, then upload it&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621413840/hypercharger.conf" id="IejAQgSXKc2Y49kBOPVx-20">
+        <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM2: Upload Config To Charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and identify the most recent &lt;b&gt;valid &lt;/b&gt;configuration, then upload it&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621413840/hypercharger.conf" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="240" y="390" width="320" height="70" as="geometry" />
           </mxCell>
