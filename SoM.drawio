@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram id="7AZIaKFDA84dNrpr3-fF" name="Page-1">
-    <mxGraphModel dx="713" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,31 +8,31 @@
           <mxGeometry x="4" y="5" width="820" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="eyd2rsEOQC1HHO5CPxRc-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="495" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-10" value="New&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SoM Configuration&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="302" y="80" width="220" height="60" as="geometry" />
+          <mxGeometry x="302" y="25" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-11" target="IejAQgSXKc2Y49kBOPVx-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;CC1: Ping charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;to ensure the fixture is online&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621406155/Hypercharger+Offline+in+Hyperlog" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="252" y="170" width="320" height="60" as="geometry" />
+            <mxGeometry x="252" y="115" width="320" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-14" target="IejAQgSXKc2Y49kBOPVx-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-14" value="Run&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM6: Set Hostname&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and wait for the charger information to be updated on hyperlog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="260" width="320" height="60" as="geometry" />
+          <mxGeometry x="252" y="205" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-17" target="IejAQgSXKc2Y49kBOPVx-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Update hymaint to the most recent version using&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;HYM3: Install Hymaint&lt;/span&gt;&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/1240236177/hymaint+update" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="252" y="350" width="320" height="60" as="geometry" />
+            <mxGeometry x="252" y="295" width="320" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IejAQgSXKc2Y49kBOPVx-20" target="IejAQgSXKc2Y49kBOPVx-24" edge="1">
@@ -40,7 +40,7 @@
         </mxCell>
         <UserObject label="Execute&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt;SOM2: Upload Config To Charger&lt;/span&gt;&lt;/div&gt;&lt;div&gt;and identify the most recent &lt;b&gt;valid &lt;/b&gt;configuration, then upload it&lt;/div&gt;" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/pages/621413840/hypercharger.conf" linkTarget="_blank" id="IejAQgSXKc2Y49kBOPVx-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="252" y="440" width="320" height="70" as="geometry" />
+            <mxGeometry x="252" y="385" width="320" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-24" target="IejAQgSXKc2Y49kBOPVx-26" edge="1">
@@ -50,19 +50,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-24" value="Check SW version&lt;div&gt;the new SoM&lt;/div&gt;&lt;div&gt;was shipped with&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="550" width="180" height="110" as="geometry" />
+          <mxGeometry x="322" y="495" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-26" target="lWXWfnWMMrPsDJzRvSUA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-26" value="&lt;div&gt;If 1.7.3 and lower, execute&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt; SOM5: Boost! &lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202" y="720" width="200" height="60" as="geometry" />
+          <mxGeometry x="202" y="665" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IejAQgSXKc2Y49kBOPVx-33" target="lWXWfnWMMrPsDJzRvSUA-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IejAQgSXKc2Y49kBOPVx-33" value="&lt;div&gt;If 1.8.0 and higher,&lt;/div&gt;&lt;div&gt;execute&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(222, 227, 229); font-family: monospace; text-align: left; white-space-collapse: preserve; background-color: rgb(33, 39, 40);&quot;&gt; R1: Hard Reset &lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412" y="720" width="200" height="60" as="geometry" />
+          <mxGeometry x="412" y="665" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lWXWfnWMMrPsDJzRvSUA-4" target="lWXWfnWMMrPsDJzRvSUA-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,16 +71,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-4" value="&lt;div&gt;Double check&lt;/div&gt;reason for&lt;div&gt;replacement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="850" width="180" height="110" as="geometry" />
+          <mxGeometry x="322" y="795" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eyd2rsEOQC1HHO5CPxRc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lWXWfnWMMrPsDJzRvSUA-9" target="eyd2rsEOQC1HHO5CPxRc-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-9" value="&lt;div&gt;SW Rollback:&lt;/div&gt;&lt;div&gt;apply the SW version requested&lt;/div&gt;&lt;div&gt;from the customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202" y="1030" width="200" height="60" as="geometry" />
+          <mxGeometry x="202" y="975" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyd2rsEOQC1HHO5CPxRc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lWXWfnWMMrPsDJzRvSUA-10" target="eyd2rsEOQC1HHO5CPxRc-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-10" value="&lt;div&gt;SoM malfunction: check last successful sessions and restore&lt;/div&gt;&lt;div&gt;that software version&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="426" y="1030" width="200" height="60" as="geometry" />
+          <mxGeometry x="426" y="975" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lWXWfnWMMrPsDJzRvSUA-18" value="Click on a step to be redirected to the relevant help page" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="690" y="90" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eyd2rsEOQC1HHO5CPxRc-3" value="&lt;div&gt;Dowload hyc.log and ensure BootNotification has been sent with correct SW version&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1085" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
