@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Pagina-1" id="UaNkxEnIw2f4sNMR2VHh">
-    <mxGraphModel dx="2377" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,12 +9,9 @@
         </mxCell>
         <UserObject label="%step%" step="**&lt;BR&gt;&lt;b&gt;STACK REPLACEMENT&lt;BR&gt;HANDLING&lt;/b&gt;&lt;BR&gt;**" shapeType="titleText" width="250" placeholders="1" id="O4qrvx7rD5n2ogxMP4Dq-667">
           <mxCell style="whiteSpace=wrap;shape=hexagon;fillColor=#ffffff;strokeColor=#000000;perimeter=hexagonPerimeter;fontSize=14;html=1;" vertex="1" parent="1">
-            <mxGeometry x="288.5" y="102" width="250" height="95" as="geometry" />
+            <mxGeometry x="288" y="70" width="250" height="95" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="O4qrvx7rD5n2ogxMP4Dq-697" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O4qrvx7rD5n2ogxMP4Dq-668" target="O4qrvx7rD5n2ogxMP4Dq-667">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <UserObject label="%step%" step="Input and output Corex cables tightened at 15Nm" shapeType="instruction" width="140" placeholders="1" id="O4qrvx7rD5n2ogxMP4Dq-668">
           <mxCell style="whiteSpace=wrap;rounded=1;fillColor=#ffffff;strokeColor=#000000;perimetre=rectanglePerimetre;html=1;" vertex="1" parent="1">
             <mxGeometry x="343.5" y="227" width="140" height="45" as="geometry" />
