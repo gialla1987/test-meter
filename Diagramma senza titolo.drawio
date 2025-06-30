@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O4qrvx7rD5n2ogxMP4Dq-696" value="\\" style="whiteSpace=wrap;html=1;imageAspect=0;fillColor=light-dark(#FFFFFF,#747474);" vertex="1" parent="1">
+          <mxGeometry x="3" y="2" width="820" height="1160" as="geometry" />
+        </mxCell>
         <UserObject label="%step%" step="**&lt;BR&gt;&lt;b&gt;STACK REPLACEMENT&lt;BR&gt;HANDLING&lt;/b&gt;&lt;BR&gt;**" shapeType="titleText" width="250" link="" placeholders="1" id="O4qrvx7rD5n2ogxMP4Dq-667">
           <mxCell style="whiteSpace=wrap;shape=hexagon;fillColor=#ffffff;strokeColor=#000000;perimeter=hexagonPerimeter;fontSize=14;html=1;" vertex="1" parent="1">
             <mxGeometry x="288.5" y="102" width="250" height="95" as="geometry" />
