@@ -1,12 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Pagina-1" id="lcRcSlPs4WyXKo_QUpW_">
-    <mxGraphModel dx="1426" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z96m-Z_JJ0u367wfLJqp-1" value="New component received,&lt;div&gt;remote analysis unclear&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="40" width="216" height="60" as="geometry" />
+        <mxCell id="pAnx4MjT94lh43VU37Ng-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z96m-Z_JJ0u367wfLJqp-1" target="pAnx4MjT94lh43VU37Ng-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
+        <mxCell id="Z96m-Z_JJ0u367wfLJqp-1" value="&lt;div&gt;COMPONENT RECEIVED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Remote analysis or replacement reason unclear for that component Serial Number&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="288.5" y="40" width="253" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pAnx4MjT94lh43VU37Ng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pAnx4MjT94lh43VU37Ng-6" target="pAnx4MjT94lh43VU37Ng-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Collect component data:&lt;div&gt;&lt;br&gt;&lt;div&gt;- Component SN&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- Charger SN&lt;/div&gt;&lt;div&gt;- Charger SW&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Lifecycle and Service tkt&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="308" y="160" width="214" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Collect issue data and fill:&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Issue reproduced in lab&quot; column&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="308" y="300" width="214" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
