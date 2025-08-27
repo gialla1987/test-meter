@@ -15,7 +15,7 @@
         <mxCell id="pAnx4MjT94lh43VU37Ng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pAnx4MjT94lh43VU37Ng-6" target="pAnx4MjT94lh43VU37Ng-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Collect component data:&lt;div&gt;&lt;br&gt;&lt;div&gt;- Component SN&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- Charger SN&lt;/div&gt;&lt;div&gt;- Charger SW&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Lifecycle and Service tkt&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-6">
+        <UserObject label="Collect component data:&lt;div&gt;&lt;br&gt;&lt;div&gt;- Component SN&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- Charger SN&lt;/div&gt;&lt;div&gt;- Charger SW&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Lifecycle and Service tkt&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="308" y="160" width="214" height="100" as="geometry" />
           </mxCell>
