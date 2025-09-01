@@ -25,7 +25,7 @@
             <mxGeometry x="308" y="300" width="214" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%date%&lt;/h1&gt;&lt;p&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/p&gt;&lt;p&gt;%timestamp%&lt;/p&gt;" placeholders="1" id="pAnx4MjT94lh43VU37Ng-15">
+        <object label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%date%&lt;/h1&gt;&lt;p&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/p&gt;&lt;p&gt;%date{fullDate}%&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;" placeholders="1" id="pAnx4MjT94lh43VU37Ng-15">
           <mxCell style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="40" y="40" width="180" height="180" as="geometry" />
           </mxCell>
