@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Pagina-1" id="lcRcSlPs4WyXKo_QUpW_">
-    <mxGraphModel dx="1678" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pAnx4MjT94lh43VU37Ng-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z96m-Z_JJ0u367wfLJqp-1" target="pAnx4MjT94lh43VU37Ng-6">
+        <mxCell id="pAnx4MjT94lh43VU37Ng-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z96m-Z_JJ0u367wfLJqp-1" target="pAnx4MjT94lh43VU37Ng-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="170" as="targetPoint" />
           </mxGeometry>
@@ -12,22 +12,24 @@
         <mxCell id="Z96m-Z_JJ0u367wfLJqp-1" value="&lt;div&gt;COMPONENT RECEIVED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Remote analysis or replacement reason unclear for that component Serial Number&lt;/div&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="288.5" y="40" width="253" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pAnx4MjT94lh43VU37Ng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pAnx4MjT94lh43VU37Ng-6" target="pAnx4MjT94lh43VU37Ng-8">
+        <mxCell id="pAnx4MjT94lh43VU37Ng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pAnx4MjT94lh43VU37Ng-6" target="pAnx4MjT94lh43VU37Ng-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Collect component data and fill in &quot;New case&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;:&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;- Component SN&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;- Charger SN&lt;/div&gt;&lt;div&gt;- Charger SW&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Lifecycle and Service tkt&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" link="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=default;gradientColor=none;" parent="1" vertex="1">
             <mxGeometry x="272" y="150" width="284" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Collect issue data and fill:&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Issue reproduced in lab&quot; column&lt;/div&gt;&lt;/div&gt;" tooltip="https://alpitronic-jira.atlassian.net/wiki/spaces/Charger/database/1282932806?savedViewId=39fbd8b2-1df1-4153-b972-60fe3a6efad8" id="pAnx4MjT94lh43VU37Ng-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="308" y="300" width="214" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="pAnx4MjT94lh43VU37Ng-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;p&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="180" height="120" as="geometry" />
-        </mxCell>
+        <object label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%date%&lt;/h1&gt;&lt;p&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/p&gt;" placeholders="1" id="pAnx4MjT94lh43VU37Ng-15">
+          <mxCell style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+            <mxGeometry x="40" y="40" width="180" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
