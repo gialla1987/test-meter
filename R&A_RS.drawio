@@ -25,9 +25,14 @@
             <mxGeometry x="308" y="300" width="214" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;%date%&lt;/h1&gt;&lt;p&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/p&gt;&lt;p&gt;%date{fullDate}%&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;" placeholders="1" id="pAnx4MjT94lh43VU37Ng-15">
+        <object label="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;By clicking with the mid mouse button on the highlighted fields you will open the relevant resource&lt;/span&gt;&lt;/h1&gt;" placeholders="1" id="pAnx4MjT94lh43VU37Ng-15">
           <mxCell style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
             <mxGeometry x="40" y="40" width="180" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;blockquote&gt;&lt;span style=&quot;text-align: left;&quot;&gt;%date{fullDate}% -&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;%time%&lt;/span&gt;&lt;/blockquote&gt;" placeholders="1" id="PPxQGf1aoBSNe4NLQimR-2">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="280" y="460" width="320" height="30" as="geometry" />
           </mxCell>
         </object>
       </root>
